@@ -111,7 +111,7 @@ cv2.destroyAllWindows()
 ![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(2).jpg)
 
 ### iii) RGB and BGR to YCrCb
-
+![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(3).jpg)
 
 ### iv) Split and merge RGB Image
 
