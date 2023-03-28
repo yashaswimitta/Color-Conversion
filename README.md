@@ -117,7 +117,7 @@ cv2.destroyAllWindows()
 ![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(4).jpg)
 
 ### v) Split and merge HSV Image
-![output](
+![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(5).jpg)
 
 
 ## Result:
