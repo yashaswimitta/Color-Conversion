@@ -108,7 +108,7 @@ cv2.destroyAllWindows()
 ![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(1).jpg)
 
 ### ii) HSV to RGB and BGR
-
+![output](https://github.com/yashaswimitta/Color-Conversion/blob/main/dip%203(2).jpg)
 
 ### iii) RGB and BGR to YCrCb
 
